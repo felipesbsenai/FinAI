@@ -1,0 +1,6 @@
+{
+  "name": "Vértice Finanças",
+  "description": "Plataforma de inteligência financeira pessoal para gestão de patrimônio, fluxo de caixa, orçamentos por categoria e metas de reserva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
